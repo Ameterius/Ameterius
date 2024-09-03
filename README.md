@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameterius" alt="ameterius" /></a> </p>
 
-- 🔭 I’m currently working on [KwenLauncher](https://github.com/Ameterius/KwenLauncher), [H4Freon](ameterius.github.io)
+- 🔭 I’m currently working on [KwenLauncher](https://github.com/Ameterius/KwenLauncher), [H4Freon](https://ameterius.github.io)
 
 - 🌱 I’m currently learning **C++, ASM**
 
