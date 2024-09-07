@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ametero</h1>
+
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/101631790/365338440-44377a1d-fa92-4572-a623-619828daf97a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240907T034621Z&X-Amz-Expires=300&X-Amz-Signature=9f9c1ff22cd6de43a150b98810624717831e834b10c4ca1b3dfa7c90ac8270ce&X-Amz-SignedHeaders=host&actor_id=101631790&key_id=0&repo_id=801078792" />
+</p>
+
 <h3 align="center">14 Year Old Shit Codder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameterius&label=Views&color=00ff00&style=flat-square" alt="ameterius" /> </p>
