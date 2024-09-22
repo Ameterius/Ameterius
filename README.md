@@ -12,5 +12,4 @@
 
 - 📫 How to reach me **ametero@proton.me**
 
-<div><a href="https://allcalc.ru/node/2516" data-weight="450px" data-height="400px"></a><script src="https://allcalc.ru/widgets/script.js"></script></div>
 
