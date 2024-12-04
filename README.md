@@ -11,6 +11,9 @@
 - 📫 How to reach me **ametero@proton.me**
 
 - 🗂 Ideas > Realization
+<h3 align = "center"> Visitors </h3>
+
+<h3 align = "center"> <a href="https://github.com/Ameterius"><img src="https://count.getloli.com/get/@:Ameterius?theme=rule34" width="50%"/> </h4>
 
 <h3 align = "center"> Specs of my devices (Who really need this shit) </h3>
 
