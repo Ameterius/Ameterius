@@ -26,7 +26,7 @@
 
 > Phone
 
-![Mediatek](https://img.shields.io/badge/MediaTek_Helio_G95-EC9430?style=for-the-badge&logo=mediatek&logoColor=white)  ![RAM](https://img.shields.io/badge/6_GB_RAM-00FF00?style=for-the-badge)  ![ROM](https://img.shields.io/badge/128_GB_ROM-00FF00?style=for-the-badge) ![andr](https://img.shields.io/badge/Android_13-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Snapdragon](https://img.shields.io/badge/Qualcomm_Snapdragon_680-EC9430?style=for-the-badge&logo=snapdragon&logoColor=white)  ![RAM](https://img.shields.io/badge/8_GB_RAM-00FF00?style=for-the-badge)  ![ROM](https://img.shields.io/badge/256_GB_ROM-00FF00?style=for-the-badge) ![andr](https://img.shields.io/badge/EMUI_14-34A853?style=for-the-badge&logo=huawei&logoColor=white)
 
 <h3 align = "center"> My skills </h3>
 
