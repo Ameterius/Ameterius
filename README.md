@@ -1,38 +1,52 @@
-# Hi!
-<h3 align = "center"> 15 Year old shit (Maybe not :D) codder</h3>
+<div align="center">
+  
+  
+  ### ⚙️ 15 y/o Developer Writing Code Close to the Metal
+  
+  > *"Programming in C is like sculpting from stone — every chisel counts."*  
+  > *― Inspired by Nietzsche’s depth*
+  
+  [![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:ametero@proton.me)
 
+</div>
 
->**"Self-pity is a poison that destroys the strength of the spirit and clouds the mind."**
->*— Friedrich Nietzsche*
+---
 
+### 🔧 System Specs
 
-- 💬 Ask me about **How to live in Russia**
+```c
+#include <stdio.h>
 
-- 📫 How to reach me **ametero@proton.me**
+typedef struct {
+    const char* CPU;
+    const char* GPU;
+    const char* RAM;
+} Rig;
 
-- 🗂 Ideas > Realization
-<h3 align = "center"> Visitors </h3>
+typedef struct {
+    const char* Chipset;
+    const char* OS;
+    const char* Storage;
+} Mobile;
 
-<h3 align = "center"> <a href="https://github.com/Ameterius"><img src="https://count.getloli.com/get/@:Ameterius?theme=rule34" width="50%"/> </h4>
+int main() {
+    Rig mainRig = { "Ryzen 5 2600", "GTX 1650", "16GB DDR4 @ 3000MHz" };
+    Rig server = { "Intel Core i3 530", "Integrated GPU", "4GB DDR3" };
+    Mobile phone = { "Dimensity 7300 Ultra", "Android 14 / HyperOS", "256GB + 8GB Virtual RAM" };
 
-<h3 align = "center"> Specs of my devices (Who really need this shit) </h3>
+    printf("Main Rig: %s | %s | %s\n", mainRig.CPU, mainRig.GPU, mainRig.RAM);
+    printf("Server: %s | %s | %s\n", server.CPU, server.GPU, server.RAM);
+    printf("Mobile: %s | %s | %s\n", phone.Chipset, phone.OS, phone.Storage);
 
-> Main PC
+    return 0;
+}
+```
 
-![Kukurezen 5 2600](https://img.shields.io/badge/AMD%20Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![NVIDIA GTX 1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/16_GB_RAM-00FF00?style=for-the-badge)
-> Home server
+---
 
-![Intel lolker](https://img.shields.io/badge/Intel%20Core_i3_530-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![ViduhySpizidili](https://img.shields.io/badge/None_Videocard-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![RAM](https://img.shields.io/badge/4_GB_RAM-00FF00?style=for-the-badge)
+### 🛠 My Tech Alchemy Toolkit
 
-> Phone
-
-![MediaTek](https://img.shields.io/badge/MediaTek_Dimensity_7300_Ultra-EC9430?style=for-the-badge&logo=mediatek&logoColor=white)  ![RAM](https://img.shields.io/badge/8_GB_RAM-00FF00?style=for-the-badge)  ![ROM](https://img.shields.io/badge/256_GB_ROM-00FF00?style=for-the-badge)  ![Android](https://img.shields.io/badge/Android_14_/_HyperOS-34A853?style=for-the-badge&logo=android&logoColor=white)
-
-<h3 align = "center"> My skills </h3>
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Arch..](https://img.shields.io/badge/Arch_Linux-00BFFF?style=for-the-badge&logo=archlinux&logoColor=blue) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Lua (SAMP API and maybe Lua)](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![LibreOffice (I'am not office man)](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-
-<h3 align = center> Now learning </h3>
-
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+| Systems & Languages        | Toolsets & Knowledge Depth   | Exploration & Growth      |
+|----------------------------|------------------------------|----------------------------|
+| ![C](https://img.shields.io/badge/C-Active_Learner-A8B9CC?logo=c) | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-2_Years-1793D1?logo=arch-linux) | ![Lua](https://img.shields.io/badge/Lua-Enthusiast-2C2D72?logo=lua) |
+| ![Python](https://img.shields.io/badge/Python-Confident-3776AB?logo=python) | ![Shell](https://img.shields.io/badge/Bash_Scripting-Novice-4EAA25?logo=gnu-bash) | ![Networking](https://img.shields.io/badge/Info_Searching-Curious-FF6C37?logo=firefox) |
