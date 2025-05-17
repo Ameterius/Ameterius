@@ -32,7 +32,7 @@ typedef struct {
 int main() {
     Rig mainRig = { "Ryzen 5 2600", "GTX 1650", "16GB DDR4 @ 3000MHz" };
     Rig server = { "Intel Core i3 530", "Integrated GPU", "4GB DDR3" };
-    Mobile phone = { "Dimensity 7300 Ultra", "Android 14 / HyperOS", "256GB + 8GB Virtual RAM" };
+    Mobile phone = { "Dimensity 7300 Ultra", "Android 15 / HyperOS", "256GB + 8GB Virtual RAM" };
 
     printf("Main Rig: %s | %s | %s\n", mainRig.CPU, mainRig.GPU, mainRig.RAM);
     printf("Server: %s | %s | %s\n", server.CPU, server.GPU, server.RAM);
